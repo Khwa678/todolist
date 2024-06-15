@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+FR+Moderne:wght@100..400&display=swap');
+
+
+
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+    background-color: aqua;
+
+}
+.container{
+    width:360px;
+    margin-top: 2rem;
+    font-family: "Playwrite FR Moderne", cursive;
+    padding:33px;
+    text-align: center;
+    background-color: #fff;
+    margin-left: 33%;
+    margin-top: 5px;
+
+}
+.input{
+    width:270px;
+    padding:8px;
+    border:2px solid aqua ;
+    outline:none;
+
+
+}
+button{
+    width:60px;
+    height:41px;
+    background-color: aqua;
+    color:white;
+    border-radius: 2px;
+    font-size: 19px;
+    border:none;
+    outline :none;
+
+}
+.text{
+    position: relative;
+    background-color: aqua;
+    color: #fff;
+    font-size: 19px;
+   
+
+    text-align: left;
+    margin-top: 2rem;
+
+}
+.text ul i{
+    position: absolute;
+    right: 10px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+#inp{
+    padding:6px;
+    
+   
+
+}
